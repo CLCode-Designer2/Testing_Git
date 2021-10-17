@@ -1,1 +1,3 @@
-const bagels = "Cinnomon Raisin"
+const bagels = "Cinnomon Raisin";
+
+console.log(bagels);
